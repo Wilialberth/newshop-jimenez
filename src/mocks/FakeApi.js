@@ -1,4 +1,4 @@
-import Buzo from "../assets/Buzo.jpg";
+import  Buzo  from "../assets/Buzo.jpg";
 import Remera from "../assets/Remera.jpg";
 import Camisa from "../assets/Camisa.jpg";
 import Jean from "../assets/Jean.jpg"

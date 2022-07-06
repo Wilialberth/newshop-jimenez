@@ -25,8 +25,6 @@ function ItemCount ({initial, stock, onAdd}) {
             <ItemCount initial={1} stock = {10} onAdd = {onAdd} />
         </div>
     )
-
-
 }
 
 
